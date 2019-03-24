@@ -2,8 +2,7 @@
 Triangle Tracker
 Categorization of triangles based on side length.
 ## Description
-{The webpage will enable the user to input length of the sides of a triangle and output should be whether the triangle is an equilateral, isosceles, or scalene triangle.}
-## Setup/Installation Requirements and step-by step guide
+{The webpage will enable the user to input length of the sides of a triangle and output should be whether the triangle is an equilateral, isosceles, or scalene.}
 ## Setup/Installation Requirements
 git
 Google chrome
