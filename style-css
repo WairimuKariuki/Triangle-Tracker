@@ -1,0 +1,70 @@
+
+body{
+
+	background-size: cover;
+	color: black;
+ text-align: center;
+text-align: center;
+background-image: url("/home/patricia/Pictures/abstract-geometric-background-moving-lines-footage-076267054_prevstill.jpeg");
+color: white;
+ font-family: 'Rogue script',cursive
+ background-image:;
+}
+h1{
+	font-size: 50px;
+h1 {
+     color: #936c93;
+     font-size: 90px;
+	font-family: 'Rouge Script', cursive;
+	line-height: 48px;
+	font-weight: normal;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	text-align: center;
+    text-shadow: 1px 1px 2px #082b34;
+}
+.heading span {
+  color: aqua;
+}
+
+h3{
+	font-size: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+#form{
+	font-size: 20px;
+	margin-bottom: -100px;
+}
+.area{
+margin-bottom: 500px;
+}
+
+button{
+	width:50px;
+	height:30px;
+	background-color: white;
+	color: black;
+	width:50px;
+	height: 30px;
+	border: 0px;
+}
+	font-size: 20px;
+}
+textarea{
+	height: 100px;
+	width: 00px;
+	float: right;
+	margin-bottom: 60px;
+	border-color: white;
+	border-width: 10px;
+	background-color: #323234;
+	margin-right: 100px;
+	border-radius: 30px;
+
+}
+
+#demo{
+	text-align: center;
+	font-size: 30px;
+}

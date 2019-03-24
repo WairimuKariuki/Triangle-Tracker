@@ -1,8 +1,34 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>TRIANGLE TRACKER</title>
+  <title>Triangle Tracker</title>
 
-
+  <link rel="stylesheet" type="text/css" href="triangle.css">
+  <script type="text/javascript" src="triangle.js"></script>
 </head>
+
+<body>
+  <h1 class="heading">aqua and center aligned heading</h1>
+
+  <h3>"Know Your Triangle!"</h3>
+  <br>
+  <form id="form">
+    <p>Enter the length of the 1st side</p>
+    <input name="name" id="side1" type="number" size="15" height>
+    <p>
+
+      <p>Enter the length of the 2nd side</p>
+      <input name="name" id="side2" type="number" size="15" height>
+      <p>
+
+        <p>Enter the length of the 3rd side</p>
+        <input name="name" id="side3" type="number" size="15" height>
+        <p>
+          <button type="button" onclick="outputname()"><b>Check</b></button><br>
+  </form>
+  <textarea id="demo" cols="90" rows "70" placeholder="result..."></textarea>
+
+</body>
+
 </html>
