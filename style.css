@@ -63,7 +63,10 @@ textarea{
 	border-radius: 30px;
 
 }
-
+article #main-col{
+	width: 65%;
+	float: left;
+}
 #demo{
 	text-align: center;
 	font-size: 30px;
