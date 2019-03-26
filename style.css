@@ -5,14 +5,14 @@ body{
 	color: black;
  text-align: center;
 text-align: center;
-background-image: url("background.jpeg");
+	background-image: url(images/background.jpeg);
  font-family: 'Rogue script',cursive
- background-image:;
+ color: white;
 }
+
 h1{
 	font-size: 50px;
-h1 {
-     color: #936c93;
+     color: white;
      font-size: 90px;
 	font-family: 'Rouge Script', cursive;
 	line-height: 48px;
@@ -47,7 +47,6 @@ button{
 	width:50px;
 	height: 30px;
 	border: 0px;
-}
 	font-size: 20px;
 }
 textarea{
