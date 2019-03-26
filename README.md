@@ -1,4 +1,4 @@
-# Project Name
+# Project Name\
 Triangle-Tracker
 Categorization of triangles based on side length.
 ## Desription
@@ -18,7 +18,7 @@ https://github.com/WairimuKariuki/Triangle-Tracker.git
 | input           |  example    |   output    |
 |-----------------|-------------|------------ |
 |Different sides  | 4,6,7       |isosceles    |
-|Similar sides    | 3,3,3       |equilatera   |l
+|Similar sides    | 3,3,3       |equilatera   |
 |2 similar sides  | 9,5,5       |scalene      |
 
 ##  Used
