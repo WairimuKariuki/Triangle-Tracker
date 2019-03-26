@@ -8,7 +8,7 @@ Git
 Google chrome
 Atom
 ## link to site
-https://github.com/WairimuKariuki/Triangle-Tracker.git
+https://wairimukariuki.github.io/Triangle-Tracker/
 ## step-by step guide
 *input length of sides
 *allows only numerical inputs
